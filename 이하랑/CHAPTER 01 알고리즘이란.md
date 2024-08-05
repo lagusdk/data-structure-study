@@ -65,7 +65,7 @@ T(n): 수학적 시간
         (ex. 실행 반복할 때마다 알고리즘의 탐색 범위를 1/2로 줄여 나가는 **이진 탐색**)
         - 빅 O 표기법: `0(log n)`
             
-            ![Untitled](CHAPTER%2001%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%200f62f0a50e424bdea48ad5d5b6bd5a1a/Untitled%201.png)
+            ![Untitled 1](https://github.com/user-attachments/assets/204f8e33-7254-4b5c-a8a7-b1c5eff8ca63)
             
         
         ### 선형 시간
@@ -74,7 +74,7 @@ T(n): 수학적 시간
         데이터 세트가 커지는 만큼 알고리즘의 실행에 필요한 단계도 같은 비율로 늘어나는 알고리즘
         - 빅 O 표기법: `0(n)`
             
-            ![Untitled](CHAPTER%2001%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%200f62f0a50e424bdea48ad5d5b6bd5a1a/Untitled%202.png)
+            ![Untitled 2](https://github.com/user-attachments/assets/fb21c2bb-f0ef-4048-aabe-c1a9764beed6)
             
         
         ### 선형 로그 시간
@@ -85,7 +85,7 @@ T(n): 수학적 시간
         (ex. **병합 정렬**과 같은 효율적인 정렬 알고리즘)
         - 빅 O 표기법: `0(n log n)`
             
-            ![Untitled](CHAPTER%2001%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%200f62f0a50e424bdea48ad5d5b6bd5a1a/Untitled%203.png)
+            ![Untitled 3](https://github.com/user-attachments/assets/337e4ad1-8165-4327-83ff-ca2489739d7d)
             
         
         ### 2차 시간
@@ -95,7 +95,7 @@ T(n): 수학적 시간
         (ex. n의 제곱에 비례해 실행 시간이 늘어나는 **삽입 정렬**, **버블 정렬**과 같은 정렬 알고리즘)
         - 빅 O 표기법: `0(n**2)`
             
-            ![Untitled](CHAPTER%2001%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%200f62f0a50e424bdea48ad5d5b6bd5a1a/Untitled%204.png)
+            ![Untitled 4](https://github.com/user-attachments/assets/98c7a175-2009-4c2e-8713-91bfb27f24a4)
             
         
         ### 3차 시간
@@ -124,7 +124,7 @@ T(n): 수학적 시간
         
         - 빅 O 표기법: `0(c**n)`
             
-            ![Untitled](CHAPTER%2001%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB%200f62f0a50e424bdea48ad5d5b6bd5a1a/Untitled%205.png)
+            ![Untitled 5](https://github.com/user-attachments/assets/04dc3af5-91b3-4598-aea6-35b95abf1d80)
             
 - 최선과 최악
 알고리즘의 실행 시간(성능)은 데이터의 종류를 비롯해 다양한 요인에 의해 변함.
